@@ -1,0 +1,17 @@
+{
+  "name": "pb-final-project",
+  "version": "1.0.0",
+  "description": "Programming basics final project THE CASHIER ...",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {}
+}

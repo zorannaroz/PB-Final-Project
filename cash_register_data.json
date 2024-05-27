@@ -1,0 +1,130 @@
+[
+  {
+    "name": "500 Euros",
+    "value": 500,
+    "available": 0,
+    "transactionReturn": 0,
+    "transactionMessage": ""
+  },
+  {
+    "name": "200 Euros",
+    "value": 200,
+    "available": 0,
+    "transactionReturn": 0,
+    "transactionMessage": ""
+  },
+  {
+    "name": "100 Euros",
+    "value": 100,
+    "available": 0,
+    "transactionReturn": 0,
+    "transactionMessage": ""
+  },
+  {
+    "name": "50 Euros",
+    "value": 50,
+    "available": 0,
+    "transactionReturn": 0,
+    "transactionMessage": ""
+  },
+  {
+    "name": "20 Euros",
+    "value": 20,
+    "available": 2,
+    "transactionReturn": 0,
+    "transactionMessage": "",
+    "added": 1
+  },
+  {
+    "name": "10 Euros",
+    "value": 10,
+    "available": 2,
+    "transactionReturn": 0,
+    "transactionMessage": "",
+    "totalUsed": null,
+    "added": 1
+  },
+  {
+    "name": "5 Euros (bill)",
+    "value": 5,
+    "available": 4,
+    "transactionReturn": 0,
+    "transactionMessage": "",
+    "totalUsed": null,
+    "added": 1
+  },
+  {
+    "name": "5 Euros (coin)",
+    "value": 5,
+    "available": 3,
+    "transactionReturn": 0,
+    "transactionMessage": "",
+    "totalUsed": null
+  },
+  {
+    "name": "2 Euros",
+    "value": 2,
+    "available": 3,
+    "transactionReturn": 0,
+    "transactionMessage": "",
+    "totalUsed": null,
+    "added": 1
+  },
+  {
+    "name": "1 Euro",
+    "value": 1,
+    "available": 4,
+    "transactionReturn": 0,
+    "transactionMessage": "",
+    "totalUsed": 1,
+    "added": 1
+  },
+  {
+    "name": "50 Cents",
+    "value": 0.5,
+    "available": 2,
+    "transactionReturn": 0,
+    "transactionMessage": "",
+    "totalUsed": null
+  },
+  {
+    "name": "20 Cents",
+    "value": 0.2,
+    "available": 7,
+    "transactionReturn": 0,
+    "transactionMessage": "",
+    "totalUsed": null
+  },
+  {
+    "name": "10 Cents",
+    "value": 0.1,
+    "available": 7,
+    "transactionReturn": 0,
+    "transactionMessage": "",
+    "totalUsed": null
+  },
+  {
+    "name": "5 Cents",
+    "value": 0.05,
+    "available": 6,
+    "transactionReturn": 0,
+    "transactionMessage": "",
+    "totalUsed": null
+  },
+  {
+    "name": "2 Cents",
+    "value": 0.02,
+    "available": 7,
+    "transactionReturn": 0,
+    "transactionMessage": "",
+    "totalUsed": null
+  },
+  {
+    "name": "1 Cent",
+    "value": 0.01,
+    "available": 6,
+    "transactionReturn": 0,
+    "transactionMessage": "",
+    "totalUsed": null
+  }
+]
